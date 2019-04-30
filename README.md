@@ -129,7 +129,7 @@ var collectionCopy = JSON.parse(JSON.stringify(collection));
 ```
 [Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
 ___
-## 6.  Basic JavaScript: Profile Lookup
+## 7.  Basic JavaScript: Profile Lookup
 We have an array of objects representing different people in our contacts lists.
 
 A lookUpProfile function that takes name and a property (prop) as arguments has been pre-written for you.
@@ -171,3 +171,4 @@ var contacts = [
     }
 ];
 ```
+[Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
