@@ -24,7 +24,7 @@ Hint
 [Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
 
 ___
-# basic-JS-challenges-fcc
+
 ## 2.  Basic JavaScript: Golf Code
 In the game of golf each hole has a par meaning the average number of strokes a golfer is expected to make in order to sink the ball in a hole to complete the play. Depending on how far above or below par your strokes are, there is a different nickname.
 
@@ -43,7 +43,7 @@ Your function will be passed par and strokes arguments. Return the correct strin
 par and strokes will always be numeric and positive. We have added an array of all the names for your convenience.
 [Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
 
-# basic-JS-challenges-fcc
+
 ## 3.  Basic JavaScript: Shopping List
 Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
 
@@ -54,7 +54,7 @@ The first element in each sub-array should contain a string with the name of the
 There should be at least 5 sub-arrays in the list.
 [Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
 
-# basic-JS-challenges-fcc
+
 ## 4.  Basic JavaScript: Standin Line
 In Computer Science a queue is an abstract Data Structure where items are kept in order. New items can be added at the back of the queue and old items are taken off from the front of the queue.
 
