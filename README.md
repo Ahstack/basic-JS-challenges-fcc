@@ -42,3 +42,14 @@ Your function will be passed par and strokes arguments. Return the correct strin
 
 par and strokes will always be numeric and positive. We have added an array of all the names for your convenience.
 [Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
+
+# basic-JS-challenges-fcc
+## 3.  Basic JavaScript: Shopping List
+Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+
+The first element in each sub-array should contain a string with the name of the item. The second element should be a number representing the quantity i.e.
+```
+["Chocolate Bar", 15]
+```
+There should be at least 5 sub-arrays in the list.
+[Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
