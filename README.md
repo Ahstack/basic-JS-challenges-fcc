@@ -127,3 +127,4 @@ var collection = {
 // Keep a copy of the collection for tests
 var collectionCopy = JSON.parse(JSON.stringify(collection));
 ```
+[Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
