@@ -41,3 +41,4 @@ Your function will be passed par and strokes arguments. Return the correct strin
 |>= par + 3      | "Go Home!"		 |
 
 par and strokes will always be numeric and positive. We have added an array of all the names for your convenience.
+[Solution](https://github.com/mesfint/basic-JS-challenges-fcc)
