@@ -106,7 +106,7 @@ Use bracket notation when accessing object properties with variables.
 Push is an array method you can read about on Mozilla Developer Network.
 
 You may refer back to Manipulating Complex Objects Introducing JavaScript Object Notation (JSON) for a refresher.
-```javascript
+```
 var collection = {
   "2548": {
     album: "Slippery When Wet",
